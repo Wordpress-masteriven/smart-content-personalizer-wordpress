@@ -1,5 +1,5 @@
-=== Plugin Name ===
-Contributors: Smart Content Personalizer
+===  Smart Content Personalizer ===
+Contributors: Tal Rimer
 Tags: smart, cntent, personalizer
 Requires at least: 5.0
 Tested up to: 6.4
