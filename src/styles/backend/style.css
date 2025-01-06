@@ -1,0 +1,17 @@
+.input-options{
+    display: flex;
+    gap: 40px;
+}
+
+.wrap_smart_content .wp-editor-tools{
+    display: none;
+}
+
+.wrap_smart_content .wp-editor-container{
+    display: none;
+}
+
+.submit_button_container button{
+    font-size: 20px;
+    font-weight: bold;
+}
